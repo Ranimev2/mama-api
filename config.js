@@ -1,5 +1,5 @@
 module.exports = {
-  'BASE_URL' : 'https://sokuja.in'
+  'BASE_URL' : 'https://x1.sokuja.uk'
 }
 
 
